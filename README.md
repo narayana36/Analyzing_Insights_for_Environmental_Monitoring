@@ -7,13 +7,21 @@ This project will train you how to use SQL to analyze a real-world database, how
 In this module, you will query the dataset using structured query language to gain insights from the database. The problem statements to be solved will be provided to you, and you will need to provide the solution for the same using your logic. Different concepts of SQL will be used in this process, such as aggregating the data, grouping the data, ordering the data, etc
 
 Preprocessing The Data:
+
 Renaming The columns: 
+
 Checking For Null values:
+
 Removing Duplicates:
+
 Exporting The Cleaned Dataset
+
 Generate Tables The Cleaned Dataset:
+
 File: Analyzing insights for environmental monitoring and analysis.ipynb
+
 Uncleaned Dataset: iot_telemetry_data.csv
+
 Cleaned dataset: cleaned environment.csv
 
 ## Module 2: Data Analysis using SQL:
